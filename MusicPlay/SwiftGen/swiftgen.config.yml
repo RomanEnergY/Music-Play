@@ -1,0 +1,10 @@
+input_dir: ${PROJECT_DIR}/MusicPlay
+output_dir: ${PROJECT_DIR}/MusicPlay/SwiftGen
+
+xcassets:
+  inputs:
+    - Resources/ImageAssets.xcassets
+    - Resources/ColorAssets.xcassets
+  outputs:
+    - templateName: swift5
+      output: Assets.generated.swift

@@ -1,6 +1,6 @@
 //
 //  Music_PlayUITests.swift
-//  Music PlayUITests
+//  MusicPlayUITests
 //
 //  Created by ZverikRS on 22.03.2024.
 //
